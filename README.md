@@ -62,6 +62,10 @@ I'm a senior Computer Engineering student at **Rizal Technological University**.
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sondre01&show_icons=true&theme=dark" alt="Khin's GitHub Stats" />
+
+[![Khin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sondre01&show_icons=true&theme=dark)](https://github.com/sondre01)
+
 </div>
