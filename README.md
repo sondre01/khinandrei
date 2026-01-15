@@ -10,10 +10,11 @@
 ### 🧐 About Me
 I'm a senior Computer Engineering student at **Rizal Technological University**. I specialize in building hardware prototypes integrated with AI and IoT. My passion lies in solving real-world health and automation problems using embedded systems.
 
-- 🔭 I’m currently working on a **Four-in-One Vital Sign Sensor with AI**.
-- 🌱 I’m currently learning **Advanced Multilayer Perceptron (MLP) models**.
-- 👯 I’m looking to collaborate on **Open Source IoT Projects**.
-- 💬 Ask me about **Arduino, Raspberry Pi, and C#**.
+- 🔭 I’m currently building a **Four-in-One Vital Sign Sensor with AI**
+- 🌱 I’m refining my skills in **AI Object Detection**
+- 💼 I’m actively looking for **Internship / OJT opportunities in Embedded Systems & IoT**
+- 💬 Ask me about **C#, Python, Raspberry Pi, and Sensor Integration**
+- 🌐 Portfolio: https://sondre01.github.io/Portfolio/
 - 📫 How to reach me: **gamboa.khinandrei@gmail.com**
 
 ---
@@ -40,12 +41,14 @@ I'm a senior Computer Engineering student at **Rizal Technological University**.
 <br>
 <img src="https://skillicons.dev/icons?i=cs,py,cpp,html,css,js" />
 
-**Hardware & IoT**
+  **Hardware & IoT**
 <br>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+
 **Tools & Databases**
 <br>
 <img src="https://skillicons.dev/icons?i=mysql,vscode,git,github" />
+</div>
 
 </div>
 
