@@ -55,7 +55,7 @@ I'm a senior Computer Engineering student at **Rizal Technological University**.
 ---
 
 ### 🌟 Highlights
-* 🧠 **AI & Machine Learning:** Integrated Multilayer Perceptron (MLP) for health risk prediction.
+* 🧠 **AI & Machine Learning:** Integrated Multilayer Perceptron (MLP) for health risk prediction and Object Detection YOLOv8.
 * 🤖 **Embedded Systems:** Built an AI Kilobot using Raspberry Pi and Load Cells.
 * 💻 **Software Development:** Developed full-stack Restaurant & Repair Shop Management Systems (C#).
 * 📡 **IoT Connectivity:** Real-time data transmission for health monitoring kiosks.
